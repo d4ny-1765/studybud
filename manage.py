@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 # python manage.py runserver to run the server
 
-# Cutomizing User model is done, waiting to be integrated
 """Django's command-line utility for administrative tasks."""
 import os
 import sys
